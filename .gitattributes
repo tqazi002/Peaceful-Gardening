@@ -1,0 +1,5 @@
+Standalone[[:space:]]Game[[:space:]]Build/Garden.unitypackage filter=lfs diff=lfs merge=lfs -text
+Standalone/[[:space:]]Game/[[:space:]]Build/Peaceful_Gardening_USB_Data/** filter=lfs diff=lfs merge=lfs -text
+Standalone/[[:space:]]Game/[[:space:]]Build/Peaceful_Gardening_USB_Data/** filter=lfs diff=lfs merge=lfs -text
+Standalone[[:space:]]Game[[:space:]]Build/Peaceful_Gardening_USB_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+Standalone/[[:space:]]Game/[[:space:]]Build/Peaceful_Gardening_USB_Data/sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
